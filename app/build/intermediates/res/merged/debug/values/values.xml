@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Maxwell/AndroidStudioProjects/CameraOverlayTut1/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/C:/Users/Maxwell/AndroidStudioProjects/CameraOverlayTut1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CameraOverlayTut</string>
+    <string name="button_capture_text">SNAP</string>
+    <string name="button_use_camera">Use Camera</string>
+    <string name="content_desc_image_just_taken">Image just taken</string>
+    <string name="content_desc_overlay">overlay</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_main">A Main Activity</string>
+    <!-- From: file:/C:/Users/Maxwell/AndroidStudioProjects/CameraOverlayTut1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
